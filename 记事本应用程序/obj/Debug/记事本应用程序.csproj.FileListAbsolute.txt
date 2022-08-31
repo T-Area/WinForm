@@ -1,0 +1,10 @@
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\bin\Debug\记事本应用程序.exe.config
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\bin\Debug\记事本应用程序.exe
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\bin\Debug\记事本应用程序.pdb
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\obj\Debug\记事本应用程序.Form1.resources
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\obj\Debug\记事本应用程序.Properties.Resources.resources
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\obj\Debug\记事本应用程序.csproj.GenerateResource.cache
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\obj\Debug\记事本应用程序.csproj.CoreCompileInputs.cache
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\obj\Debug\记事本应用程序.exe
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\obj\Debug\记事本应用程序.pdb
+E:\C#\代码\暑假复习巩固\WinForm应用程序\记事本应用程序\obj\Debug\记事本应用程序.csproj.AssemblyReference.cache
